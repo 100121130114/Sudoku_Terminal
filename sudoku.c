@@ -7,7 +7,7 @@
 int main(){
  srand(time(NULL));
  //var conf
- int tbm=16;
+ int tbm=9;
  int tbmr=0;
  bool mas[tbm*tbm];
  char cp[6]={' ','|','-','.','M','M'};

@@ -1,3 +1,5 @@
+//Libreria para PLaM
+
 #include <stdbool.h>
 
 int long elvl(int long numero_base, int long numero_elevar){//ElEvAr
